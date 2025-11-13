@@ -1,0 +1,101 @@
+palavra,categoria,dificuldade,num_dicas,dica1,dica2,dica3
+python,Programacao,1,2,Linguagem interpretada,Sintaxe simples e indentação obrigatória
+java,Programacao,1,2,Usa máquina virtual,Orientada a objetos
+c,Programacao,1,2,Linguagem de baixo nível,Usada em sistemas operacionais
+cpp,Programacao,1,2,Evolução do C,Suporta orientação a objetos
+javascript,Programacao,1,2,Usada em navegadores,Base do Node.js
+php,Programacao,1,2,Comum em páginas web,Usada no WordPress
+ruby,Programacao,1,2,Usada no framework Rails,Sintaxe amigável
+swift,Programacao,1,2,Linguagem da Apple,Usada para iOS e macOS
+kotlin,Programacao,1,2,Compatível com Java,Usada em Android
+typescript,Programacao,2,2,Superconjunto do JavaScript,Suporte a tipagem estática
+go,Programacao,2,2,Desenvolvida pelo Google,Compilação rápida
+rust,Programacao,2,3,Foco em segurança de memória,Desenvolvida pela Mozilla,Usa borrow checker
+perl,Programacao,2,2,Usada em scripts e automação,Tem sintaxe flexível
+lua,Programacao,1,2,Usada em jogos,Simples e embutível
+r,Programacao,2,2,Voltada para estatística,Popular entre cientistas de dados
+matlab,Programacao,2,2,Focado em cálculos numéricos,Usado em engenharia
+scala,Programacao,2,2,Roda na JVM,Suporte a programação funcional
+haskell,Programacao,3,3,Linguagem funcional pura,Usa lazy evaluation,Sintaxe matemática
+elixir,Programacao,3,2,Baseada em Erlang,Alta concorrência
+erlang,Programacao,3,2,Usada em sistemas telefônicos,Alta disponibilidade
+dart,Programacao,2,2,Usada no Flutter,Compila para JavaScript
+shell,Programacao,1,2,Usada em scripts do Linux,Executa comandos do sistema
+bash,Programacao,1,2,Shell padrão no Linux,Suporta automação
+powershell,Programacao,2,2,Linguagem da Microsoft,Administração de sistemas Windows
+fortran,Programacao,3,2,Antiga linguagem científica,Usada em cálculos numéricos
+cobol,Programacao,3,2,Linguagem de bancos antigos,Voltada a negócios
+pascal,Programacao,2,2,Linguagem estruturada,Usada no ensino
+delphi,Programacao,2,2,Versão moderna do Pascal,Usada em desktop Windows
+prolog,Programacao,3,3,Linguagem lógica,Baseada em fatos e regras,Usada em IA
+lisp,Programacao,3,3,Parênteses por toda parte,Linguagem funcional antiga,Usada em IA
+scheme,Programacao,3,2,Derivada do Lisp,Sintaxe minimalista
+clojure,Programacao,3,2,Lisp moderno,Roda na JVM
+objectivec,Programacao,2,2,Usada em iOS antes do Swift,Extensão do C
+assembly,Programacao,3,2,Linguagem de máquina humana,Difícil e poderosa
+sql,Programacao,1,2,Usada em bancos de dados,Linguagem declarativa
+plsql,Programacao,2,2,Extensão do SQL da Oracle,Suporta funções e loops
+mysql,Programacao,1,2,Banco de dados popular,Open source
+sqlite,Programacao,1,2,Banco leve,Usado em dispositivos móveis
+postgresql,Programacao,2,2,Banco avançado,Suporte a JSON
+mongodb,Programacao,2,2,Banco NoSQL,Armazena documentos
+redis,Programacao,2,2,Banco em memória,Usado como cache
+firebase,Programacao,1,2,Plataforma do Google,Usada em apps móveis
+html,Programacao,1,2,Linguagem de marcação,Usada para estruturar páginas web
+css,Programacao,1,2,Usada para estilos visuais,Complementa o HTML
+json,Programacao,1,2,Formato leve de dados,Baseado em pares chave-valor
+xml,Programacao,2,2,Formato de dados antigo,Usado em web services
+yaml,Programacao,2,2,Alternativa ao JSON,Usada em configurações
+dockerfile,Programacao,2,2,Usada para containers,Base do Docker
+makefile,Programacao,2,2,Usada em compilação automática,Define dependências
+latex,Programacao,2,2,Usada para documentos científicos,Baseada em comandos
+tex,Programacao,3,2,Sistema tipográfico antigo,Base do LaTeX
+vhdl,Programacao,3,2,Usada em hardware,Descrições de circuitos
+verilog,Programacao,3,2,Linguagem HDL,Concorrente ao VHDL
+scratch,Programacao,1,2,Linguagem visual para crianças,Usa blocos coloridos
+logo,Programacao,1,2,Linguagem educacional,Movimenta uma tartaruga
+smalltalk,Programacao,3,2,Pioneira em orientação a objetos,Usada nos anos 80
+ada,Programacao,3,2,Usada em sistemas críticos,Segura e robusta
+labview,Programacao,2,2,Linguagem visual,Usada em engenharia
+fsharp,Programacao,3,2,Linguagem da Microsoft,Funcional e moderna
+ocaml,Programacao,3,2,Linguagem funcional,Usada em pesquisa
+julia,Programacao,2,2,Focada em ciência de dados,Alta performance
+nim,Programacao,3,2,Compilada e eficiente,Semelhante a Python e C
+crystal,Programacao,3,2,Inspirada em Ruby,Compilada e rápida
+zig,Programacao,3,2,Alternativa ao C,Foco em segurança
+vala,Programacao,3,2,Baseada em GObject,Usada no GNOME
+groovy,Programacao,2,2,Roda na JVM,Usada em scripts Gradle
+kql,Programacao,2,2,Linguagem de consultas,Usada no Azure
+powerscript,Programacao,2,2,Usada no PowerBuilder,Linguagem procedural
+sas,Programacao,3,2,Usada em estatística,Banco de dados corporativo
+stata,Programacao,3,2,Linguagem para análises,Popular em economia
+apl,Programacao,3,2,Usa símbolos matemáticos,Difícil leitura
+awk,Programacao,2,2,Manipula texto e logs,Comum em Linux
+sed,Programacao,2,2,Editor de fluxo de texto,Usado em shell scripts
+tcl,Programacao,2,2,Linguagem de script antiga,Usada no Tk
+rebol,Programacao,3,2,Desconhecida,Baseada em dados
+d,Programacao,3,2,Evolução do C++,Compilada e eficiente
+boo,Programacao,3,2,Inspirada em Python,Roda no .NET
+csharp,Programacao,1,2,Linguagem da Microsoft,Usada com .NET
+vbnet,Programacao,1,2,Evolução do Visual Basic,Integrada ao .NET
+visualbasic,Programacao,2,2,Linguagem clássica do Windows,Base de macros do Office
+coldfusion,Programacao,3,2,Linguagem web antiga,Usada por Adobe
+cobol85,Programacao,3,2,Versão moderna do Cobol,Usada em bancos
+qbasic,Programacao,2,2,Linguagem antiga,Base do Visual Basic
+foxpro,Programacao,2,2,Banco e linguagem antiga,Usada em sistemas legados
+clipper,Programacao,3,2,Usada em DOS,Base para dBase
+basic,Programacao,1,2,Linguagem simples,Educacional
+dylan,Programacao,3,2,Linguagem funcional orientada a objetos,Pouco usada
+elm,Programacao,3,2,Usada em front-end funcional,Compila para JavaScript
+rexx,Programacao,3,2,Linguagem de script da IBM,Usada em mainframes
+abap,Programacao,3,2,Linguagem do SAP,Usada em sistemas empresariais
+vala,Programacao,3,2,Usada no GNOME,Compilada e moderna
+swiftui,Programacao,2,2,Framework da Apple,Baseado em Swift
+racket,Programacao,3,2,Baseada em Lisp,Usada no ensino
+solidity,Programacao,2,2,Usada em blockchain,Smart contracts no Ethereum
+move,Programacao,3,2,Usada em blockchains,Segurança de transações
+svelte,Programacao,2,2,Framework JavaScript moderno,Compila para código otimizado
+vue,Programacao,1,2,Framework reativo,Alternativa ao React
+react,Programacao,1,2,Biblioteca JavaScript,Desenvolvida pelo Facebook
+angular,Programacao,1,2,Framework TypeScript,Desenvolvido pelo Google
+flutter,Programacao,1,2,Framework multiplataforma,Usa Dart
